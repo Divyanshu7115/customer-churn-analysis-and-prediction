@@ -1,0 +1,79 @@
+
+=========================================================
+        CUSTOMER CHURN PREDICTION REPORT
+=========================================================
+
+PROJECT
+---------------------------------------------------------
+Customer Churn Prediction using Machine Learning
+
+=========================================================
+OBJECTIVE
+=========================================================
+
+Predict customers who are likely to leave the company
+using historical customer behavior and demographic data.
+
+=========================================================
+DATASET SUMMARY
+=========================================================
+
+Total Records : 5630
+Total Features: 19
+
+=========================================================
+MODELS TRAINED
+=========================================================
+
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+
+=========================================================
+MODEL PERFORMANCE
+=========================================================
+
+Logistic Regression Accuracy : 0.8890
+
+Decision Tree Accuracy       : 0.9663
+
+Random Forest Accuracy       : 0.9822
+
+=========================================================
+BEST MODEL
+=========================================================
+
+Random Forest
+
+=========================================================
+KEY FINDINGS
+=========================================================
+
+• Missing values successfully handled.
+
+• Data cleaned and prepared for ML.
+
+• Customer behavior strongly influences churn.
+
+• Complaint, Tenure and Satisfaction were among the
+  important factors affecting churn.
+
+• Random Forest achieved the highest predictive performance.
+
+=========================================================
+BUSINESS RECOMMENDATION
+=========================================================
+
+• Improve onboarding.
+
+• Resolve complaints faster.
+
+• Increase customer satisfaction.
+
+• Launch personalized retention campaigns.
+
+• Deploy the Random Forest model.
+
+=========================================================
+END OF REPORT
+=========================================================
